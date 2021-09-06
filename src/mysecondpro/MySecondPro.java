@@ -16,7 +16,9 @@ public class MySecondPro {
      */
     public static void main(String[] args) {
         System.out.println("Moja vtoraja programma");
-        System.out.println("pervoje iznenenie faula");
+        System.out.println("pervoje iznenenie faila");
+        System.out.println("vtoroje iznenenie faila");
+                
 // TODO code application logic here
     }
     
